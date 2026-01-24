@@ -4,4 +4,6 @@
 .intellijPlatform
 .kotlin
 .qodana
+.resources
+.agent
 build
