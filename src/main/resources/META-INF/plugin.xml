@@ -1,15 +1,23 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
     <id>com.github.zulerne.jetbrainsonelighttheme</id>
-    <name>jetbrains-one-light-theme</name>
+    <name>One Light Theme</name>
     <vendor>zulerne</vendor>
+    <description><![CDATA[
+    One Light theme for JetBrains IDEs. Based on the popular Atom One Light color scheme.
+
+    <h3>Features</h3>
+    <ul>
+        <li>Light UI theme with clean, modern aesthetics</li>
+        <li>Syntax highlighting for all major languages</li>
+        <li>Optimized for readability</li>
+    </ul>
+    ]]></description>
 
     <depends>com.intellij.modules.platform</depends>
 
-    <resource-bundle>messages.MyBundle</resource-bundle>
-
     <extensions defaultExtensionNs="com.intellij">
-        <toolWindow factoryClass="com.github.zulerne.jetbrainsonelighttheme.toolWindow.MyToolWindowFactory" id="MyToolWindow"/>
-        <postStartupActivity implementation="com.github.zulerne.jetbrainsonelighttheme.startup.MyProjectActivity" />
+        <themeProvider id="com.github.zulerne.jetbrainsonelighttheme.one_light"
+                       path="/one_light.theme.json"/>
     </extensions>
 </idea-plugin>
