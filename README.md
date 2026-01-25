@@ -1,4 +1,4 @@
-# jetbrains-one-light-theme
+# One Light Theme
 
 ![Build](https://github.com/zulerne/jetbrains-one-light-theme/workflows/Build/badge.svg)
 [![Version](https://img.shields.io/jetbrains/plugin/v/29895.svg)](https://plugins.jetbrains.com/plugin/29895)
@@ -32,10 +32,3 @@ One Light theme for JetBrains IDEs. Based on the popular Atom One Light color sc
 
   Download the [latest release](https://github.com/zulerne/jetbrains-one-light-theme/releases/latest) and install it manually using
   <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>⚙️</kbd> > <kbd>Install plugin from disk...</kbd>
-
-
----
-Plugin based on the [IntelliJ Platform Plugin Template][template].
-
-[template]: https://github.com/JetBrains/intellij-platform-plugin-template
-[docs:plugin-description]: https://plugins.jetbrains.com/docs/intellij/plugin-user-experience.html#plugin-description-and-presentation
