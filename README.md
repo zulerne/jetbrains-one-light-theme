@@ -4,6 +4,8 @@
 [![Version](https://img.shields.io/jetbrains/plugin/v/29895.svg)](https://plugins.jetbrains.com/plugin/29895)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/29895.svg)](https://plugins.jetbrains.com/plugin/29895)
 
+![One Light Theme Screenshot](screenshots/screenshot.png)
+
 
 <!-- Plugin description -->
 One Light theme for JetBrains IDEs. Based on the popular Atom One Light color scheme.
