@@ -103,7 +103,7 @@
         "ComboPopup.border": "1,1,1,1,DBDBDC",
         "CompletionPopup": {
             "background": "#FFFFFF",
-            "selectionBackground": "#E5E5E6",
+            "selectionBackground": "#C8D4FF",
             "matchForeground": "accentColor"
         },
         "ComplexPopup": {
