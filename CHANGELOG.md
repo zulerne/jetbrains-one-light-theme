@@ -4,6 +4,10 @@
 
 ## [Unreleased]
 
+## [1.0.2]
+### Changed
+- Updated README features list
+
 ## [1.0.1]
 ### Added
 - Added plugin icon
