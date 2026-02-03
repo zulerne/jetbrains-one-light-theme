@@ -10,13 +10,10 @@
 <!-- Plugin description -->
 One Light theme for JetBrains IDEs. Based on the popular Atom One Light color scheme.
 
-    <h3>Features</h3>
-    <ul>
-        <li>Light UI theme with clean, modern aesthetics</li>
-        <li>Syntax highlighting for all major languages</li>
-        <li>Optimized for readability</li>
-        <li>Unique plugin icon for better visibility</li>
-    </ul>
+### Features
+- Light UI theme with clean, modern aesthetics
+- Syntax highlighting for all major languages
+- Optimized for readability
 <!-- Plugin description end -->
 
 ## Installation
