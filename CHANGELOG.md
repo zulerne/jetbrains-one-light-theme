@@ -3,5 +3,7 @@
 # jetbrains-one-light-theme Changelog
 
 ## [Unreleased]
-### Changed
-- Updated selection color
+
+## [1.0.1]
+### Added
+- Added plugin icon
