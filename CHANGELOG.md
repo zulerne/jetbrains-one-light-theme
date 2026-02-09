@@ -4,6 +4,14 @@
 
 ## [Unreleased]
 
+## [1.2.0]
+### Added
+- Expanded Python syntax highlighting (24 attributes: classes, functions, docstrings, f-strings, type hints, parameters)
+- C/C++ syntax highlighting for CLion (21 attributes: macros, templates, structs, namespaces)
+- PHP syntax highlighting for PhpStorm (15 attributes: classes, variables, heredocs, doc tags)
+- Ruby syntax highlighting for RubyMine (21 attributes: symbols, instance variables, heredocs, regex, interpolation)
+- C# syntax highlighting for Rider (19 attributes: ReSharper identifiers for classes, methods, properties, events)
+
 ## [1.1.0]
 ### Added
 - Syntax highlighting for Bash/Shell, Rust, Docker, TOML, SQL, Groovy

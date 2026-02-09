@@ -1237,6 +1237,113 @@
       </value>
     </option>
 
+    <!-- C/C++ -->
+    <option name="OC.BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="#A0A1A7"/>
+      </value>
+    </option>
+    <option name="OC.CONCEPT">
+      <value>
+        <option name="FOREGROUND" value="#C18401"/>
+      </value>
+    </option>
+    <option name="OC.DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="#A0A1A7"/>
+      </value>
+    </option>
+    <option name="OC.ENUM_CONST">
+      <value>
+        <option name="FOREGROUND" value="#986801"/>
+      </value>
+    </option>
+    <option name="OC.FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="#4078F2"/>
+      </value>
+    </option>
+    <option name="OC.GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="#E45649"/>
+      </value>
+    </option>
+    <option name="OC.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="#A626A4"/>
+      </value>
+    </option>
+    <option name="OC.LABEL">
+      <value>
+        <option name="FOREGROUND" value="#A626A4"/>
+      </value>
+    </option>
+    <option name="OC.LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="#A0A1A7"/>
+      </value>
+    </option>
+    <option name="OC.LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="#383A42"/>
+      </value>
+    </option>
+    <option name="OC.MACRONAME">
+      <value>
+        <option name="FOREGROUND" value="#0184BC"/>
+      </value>
+    </option>
+    <option name="OC.MACROPARAM">
+      <value>
+        <option name="FOREGROUND" value="#986801"/>
+      </value>
+    </option>
+    <option name="OC.NAMESPACE_LIKE">
+      <value>
+        <option name="FOREGROUND" value="#C18401"/>
+      </value>
+    </option>
+    <option name="OC.NUMBER">
+      <value>
+        <option name="FOREGROUND" value="#986801"/>
+      </value>
+    </option>
+    <option name="OC.OVERLOADED_OPERATOR">
+      <value>
+        <option name="FOREGROUND" value="#A626A4"/>
+      </value>
+    </option>
+    <option name="OC.PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="#E45649"/>
+      </value>
+    </option>
+    <option name="OC.STRING">
+      <value>
+        <option name="FOREGROUND" value="#50A14F"/>
+      </value>
+    </option>
+    <option name="OC.STRUCT_FIELD">
+      <value>
+        <option name="FOREGROUND" value="#E45649"/>
+      </value>
+    </option>
+    <option name="OC.STRUCT_LIKE">
+      <value>
+        <option name="FOREGROUND" value="#C18401"/>
+      </value>
+    </option>
+    <option name="OC.TEMPLATE_TYPE">
+      <value>
+        <option name="FOREGROUND" value="#C18401"/>
+      </value>
+    </option>
+    <option name="OC.TYPEDEF">
+      <value>
+        <option name="FOREGROUND" value="#C18401"/>
+      </value>
+    </option>
+
     <!-- Rust -->
     <option name="org.rust.ANGLE_BRACKETS">
       <value>
@@ -1450,6 +1557,81 @@
       </value>
     </option>
 
+    <!-- PHP -->
+    <option name="PHP_CLASS">
+      <value>
+        <option name="FOREGROUND" value="#C18401"/>
+      </value>
+    </option>
+    <option name="PHP_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="#A0A1A7"/>
+      </value>
+    </option>
+    <option name="PHP_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="#986801"/>
+      </value>
+    </option>
+    <option name="PHP_DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="#A0A1A7"/>
+      </value>
+    </option>
+    <option name="PHP_DOC_TAG">
+      <value>
+        <option name="FOREGROUND" value="#A626A4"/>
+      </value>
+    </option>
+    <option name="PHP_EXEC_COMMAND_ID">
+      <value>
+        <option name="FOREGROUND" value="#0184BC"/>
+      </value>
+    </option>
+    <option name="PHP_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="#4078F2"/>
+      </value>
+    </option>
+    <option name="PHP_HEREDOC_CONTENT">
+      <value>
+        <option name="FOREGROUND" value="#50A14F"/>
+      </value>
+    </option>
+    <option name="PHP_HEREDOC_ID">
+      <value>
+        <option name="FOREGROUND" value="#50A14F"/>
+      </value>
+    </option>
+    <option name="PHP_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="#A626A4"/>
+      </value>
+    </option>
+    <option name="PHP_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="#986801"/>
+      </value>
+    </option>
+    <option name="PHP_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="#E45649"/>
+      </value>
+    </option>
+    <option name="PHP_SCRIPTING_BACKGROUND">
+      <value/>
+    </option>
+    <option name="PHP_STRING">
+      <value>
+        <option name="FOREGROUND" value="#50A14F"/>
+      </value>
+    </option>
+    <option name="PHP_VAR">
+      <value>
+        <option name="FOREGROUND" value="#E45649"/>
+      </value>
+    </option>
+
     <!-- Python -->
     <option name="PY.ANNOTATION">
       <value>
@@ -1589,6 +1771,211 @@
         <option name="FOREGROUND" value="#A626A4"/>
       </value>
     </option>
+
+    <!-- C# / Rider -->
+    <option name="ReSharper.CSHARP_BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="#A0A1A7"/>
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="#A0A1A7"/>
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="#A0A1A7"/>
+      </value>
+    </option>
+    <option name="ReSharper.CLASS_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="#C18401"/>
+      </value>
+    </option>
+    <option name="ReSharper.CONSTANT_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="#986801"/>
+      </value>
+    </option>
+    <option name="ReSharper.ENUM_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="#C18401"/>
+      </value>
+    </option>
+    <option name="ReSharper.EVENT_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="#E45649"/>
+      </value>
+    </option>
+    <option name="ReSharper.EXTENSION_METHOD_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="#4078F2"/>
+      </value>
+    </option>
+    <option name="ReSharper.FIELD_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="#E45649"/>
+      </value>
+    </option>
+    <option name="ReSharper.INTERFACE_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="#C18401"/>
+      </value>
+    </option>
+    <option name="ReSharper.LOCAL_FUNCTION_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="#4078F2"/>
+      </value>
+    </option>
+    <option name="ReSharper.LOCAL_VARIABLE_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="#383A42"/>
+      </value>
+    </option>
+    <option name="ReSharper.METHOD_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="#4078F2"/>
+      </value>
+    </option>
+    <option name="ReSharper.NAMESPACE_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="#C18401"/>
+      </value>
+    </option>
+    <option name="ReSharper.PARAMETER_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="#E45649"/>
+      </value>
+    </option>
+    <option name="ReSharper.PROPERTY_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="#E45649"/>
+      </value>
+    </option>
+    <option name="ReSharper.STATIC_METHOD_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="#4078F2"/>
+      </value>
+    </option>
+    <option name="ReSharper.STRUCT_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="#C18401"/>
+      </value>
+    </option>
+    <option name="ReSharper.TYPE_PARAMETER_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="#C18401"/>
+      </value>
+    </option>
+
+    <!-- Ruby -->
+    <option name="RUBY_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="#A0A1A7"/>
+      </value>
+    </option>
+    <option name="RUBY_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="#986801"/>
+      </value>
+    </option>
+    <option name="RUBY_ESCAPE_SEQUENCE">
+      <value>
+        <option name="FOREGROUND" value="#0184BC"/>
+      </value>
+    </option>
+    <option name="RUBY_EXPR_IN_STRING">
+      <value>
+        <option name="FOREGROUND" value="#E45649"/>
+      </value>
+    </option>
+    <option name="RUBY_GVAR">
+      <value>
+        <option name="FOREGROUND" value="#E45649"/>
+      </value>
+    </option>
+    <option name="RUBY_HASH_ASSOC">
+      <value>
+        <option name="FOREGROUND" value="#E45649"/>
+      </value>
+    </option>
+    <option name="RUBY_HEREDOC_CONTENT">
+      <value>
+        <option name="FOREGROUND" value="#50A14F"/>
+      </value>
+    </option>
+    <option name="RUBY_HEREDOC_ID">
+      <value>
+        <option name="FOREGROUND" value="#50A14F"/>
+      </value>
+    </option>
+    <option name="RUBY_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="#383A42"/>
+      </value>
+    </option>
+    <option name="RUBY_IVAR">
+      <value>
+        <option name="FOREGROUND" value="#E45649"/>
+      </value>
+    </option>
+    <option name="RUBY_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="#A626A4"/>
+      </value>
+    </option>
+    <option name="RUBY_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="#A0A1A7"/>
+      </value>
+    </option>
+    <option name="RUBY_LOCAL_VAR_ID">
+      <value>
+        <option name="FOREGROUND" value="#383A42"/>
+      </value>
+    </option>
+    <option name="RUBY_METHOD_NAME">
+      <value>
+        <option name="FOREGROUND" value="#4078F2"/>
+      </value>
+    </option>
+    <option name="RUBY_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="#986801"/>
+      </value>
+    </option>
+    <option name="RUBY_OPERATION_SIGN">
+      <value>
+        <option name="FOREGROUND" value="#383A42"/>
+      </value>
+    </option>
+    <option name="RUBY_PARAMDEF">
+      <value>
+        <option name="FOREGROUND" value="#E45649"/>
+      </value>
+    </option>
+    <option name="RUBY_REGEXP">
+      <value>
+        <option name="FOREGROUND" value="#0184BC"/>
+      </value>
+    </option>
+    <option name="RUBY_SPECIFIC_CALL">
+      <value>
+        <option name="FOREGROUND" value="#4078F2"/>
+      </value>
+    </option>
+    <option name="RUBY_STRING">
+      <value>
+        <option name="FOREGROUND" value="#50A14F"/>
+      </value>
+    </option>
+    <option name="RUBY_SYMBOL">
+      <value>
+        <option name="FOREGROUND" value="#986801"/>
+      </value>
+    </option>
+
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="#FFE990"/>
