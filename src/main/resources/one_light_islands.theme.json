@@ -1,7 +1,8 @@
 {
-    "name": "One Light",
+    "name": "One Light Islands",
     "dark": false,
     "author": "zulerne",
+    "parentTheme": "Islands Light",
     "editorScheme": "/one_light.xml",
     "colors": {
         "accentColor": "#526FFF",
@@ -144,7 +145,11 @@
         },
         "EditorPane.inactiveBackground": "#FAFAFA",
         "EditorTabs": {
-            "underlinedTabBackground": "#FFFFFF"
+            "background": "#FAFAFA",
+            "underlinedTabBackground": "#FFFFFF",
+            "inactiveUnderlinedTabBackground": "#F5F5F5",
+            "underlinedBorderColor": "accentColor",
+            "inactiveUnderlinedTabBorderColor": "#C9C9CA"
         },
         "FileColor": {
             "Yellow": "#FDF6E3",
@@ -161,6 +166,7 @@
             "linkForeground": "#4078F2",
             "shortcutForeground": "infoForeground"
         },
+        "Island.borderColor": "#EAEAEB",
         "Label": {
             "infoForeground": "infoForeground",
             "successForeground": "#50A14F"
@@ -182,8 +188,9 @@
         },
         "MainToolbar": {
             "foreground": "#383A42",
-            "inactiveBackground": "#D0D0D0",
-            "background": "#D0D0D0",
+            "inactiveBackground": "#D0D0D1",
+            "background": "#D0D0D1",
+            "borderColor": "#D0D0D100",
             "Icon": {
                 "inactiveBackground": "#383A42"
             },
@@ -192,6 +199,7 @@
                 "hoverBackground": "#C0C0C0"
             }
         },
+        "MainWindow.background": "#D0D0D1",
         "MemoryIndicator": {
             "allocatedBackground": "#E5E5E6",
             "usedBackground": "#B8D4F0"
@@ -319,7 +327,10 @@
             "errorForeground": "#E45649"
         },
         "Settings.Spotlight.borderColor": "accentColor",
-        "StatusBar.background": "backgroundColor",
+        "StatusBar": {
+            "background": "backgroundColor",
+            "borderColor": "#EAEAEB00"
+        },
         "TabbedPane": {
             "underlineColor": "accentColor",
             "contentAreaColor": "#E5E5E6",
@@ -362,14 +373,15 @@
         },
         "ToolWindow": {
             "background": "backgroundColor",
+            "Stripe.borderColor": "#EAEAEB00",
             "Button": {
                 "hoverBackground": "#E5E5E6",
                 "selectedBackground": "#DBDBDC",
                 "selectedForeground": "#383A42"
             },
             "Header": {
-                "background": "#DBDBDC",
-                "inactiveBackground": "#E5E5E6"
+                "background": "#EAEAEB",
+                "inactiveBackground": "#EAEAEB"
             },
             "HeaderTab": {
                 "hoverBackground": "#E5E5E6",

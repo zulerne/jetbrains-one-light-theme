@@ -19,5 +19,7 @@
     <extensions defaultExtensionNs="com.intellij">
         <themeProvider id="com.github.zulerne.jetbrainsonelighttheme.one_light"
                        path="/one_light.theme.json"/>
+        <themeProvider id="com.github.zulerne.jetbrainsonelighttheme.one_light_islands"
+                       path="/one_light_islands.theme.json"/>
     </extensions>
 </idea-plugin>
