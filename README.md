@@ -11,6 +11,7 @@
 One Light theme for JetBrains IDEs. Based on the popular Atom One Light color scheme.
 
 ### Features
+- **Islands UI support** — includes a dedicated Islands theme variant
 - Light UI theme with clean, modern aesthetics
 - Syntax highlighting for all major languages
 - Optimized for readability
