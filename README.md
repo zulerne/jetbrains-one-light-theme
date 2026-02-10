@@ -11,9 +11,9 @@
 One Light theme for JetBrains IDEs. Based on the popular Atom One Light color scheme.
 
 ### Features
-- **Two theme variants** — Classic and Islands UI, sharing the same editor color scheme
-- Light UI theme with clean, modern aesthetics
-- Syntax highlighting for all major languages
+- **Four theme variants** — One Light, One Light Islands, One Light Dark, and One Light Dark Islands
+- Classic and Islands UI styles for both light and dark themes
+- Syntax highlighting for all major languages (Bash, C/C++, C#, Docker, Go, Groovy, Java, JavaScript, JSX, JSON, Jupyter, Kotlin, Markdown, PHP, Python, Ruby, Rust, SQL, TypeScript, YAML, and more)
 - Optimized for readability
 <!-- Plugin description end -->
 

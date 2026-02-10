@@ -4,6 +4,17 @@
 
 ## [Unreleased]
 
+## [1.3.0]
+### Added
+- Dark theme variants: One Light Dark and One Light Dark Islands
+- Complete dark color palette matching Atom One Dark scheme
+- Dark syntax highlighting for all supported languages (Bash, C/C++, C#, Docker, Go, Groovy, Java, JavaScript, JSX, JSON, Jupyter, Kotlin, Log, Logcat, Markdown, PHP, Python, Regex, Ruby, Rust, SQL, TOML, SCSS/LESS, TypeScript, XML, YAML)
+- Dark UI theming for Classic and Islands styles
+- Islands Dark parent theme integration with proper panel color separation
+
+### Fixed
+- Go package qualifier highlighting (config., logger., slog., etc.) now displays in neutral color instead of string green
+
 ## [1.2.0]
 ### Added
 - Expanded Python syntax highlighting (24 attributes: classes, functions, docstrings, f-strings, type hints, parameters)

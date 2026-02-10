@@ -8,7 +8,8 @@
 
     <h3>Features</h3>
     <ul>
-        <li>Light UI theme with clean, modern aesthetics</li>
+        <li>Light and Dark UI themes with clean, modern aesthetics</li>
+        <li>Classic and Islands UI variants for both light and dark</li>
         <li>Syntax highlighting for all major languages</li>
         <li>Optimized for readability</li>
     </ul>
@@ -21,5 +22,9 @@
                        path="/one_light.theme.json"/>
         <themeProvider id="com.github.zulerne.jetbrainsonelighttheme.one_light_islands"
                        path="/one_light_islands.theme.json"/>
+        <themeProvider id="com.github.zulerne.jetbrainsonelighttheme.one_light_dark"
+                       path="/one_light_dark.theme.json"/>
+        <themeProvider id="com.github.zulerne.jetbrainsonelighttheme.one_light_dark_islands"
+                       path="/one_light_dark_islands.theme.json"/>
     </extensions>
 </idea-plugin>
