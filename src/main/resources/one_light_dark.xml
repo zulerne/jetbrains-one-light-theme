@@ -9,6 +9,8 @@
     <option name="DIFF_SEPARATORS_BACKGROUND" value="#21252b"/>
     <option name="DOCUMENTATION_COLOR" value="#3d424b"/>
     <option name="ERROR_HINT" value="#781732"/>
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="636b78"/>
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="636b78"/>
     <option name="FOLDED_TEXT_BORDER_COLOR" value=""/>
     <option name="GUTTER_BACKGROUND" value="#282c34"/>
     <option name="INDENT_GUIDE" value="#3b4048"/>

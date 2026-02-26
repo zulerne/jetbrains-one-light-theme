@@ -4,8 +4,13 @@
 
 ## [Unreleased]
 
+## [1.3.1]
+### Fixed
+- Gitignored files now display in muted gray instead of default yellow in project tree
+
 ## [1.3.0]
 ### Added
+
 - Dark theme variants: One Light Dark and One Light Dark Islands
 - Complete dark color palette matching Atom One Dark scheme
 - Dark syntax highlighting for all supported languages (Bash, C/C++, C#, Docker, Go, Groovy, Java, JavaScript, JSX, JSON, Jupyter, Kotlin, Log, Logcat, Markdown, PHP, Python, Regex, Ruby, Rust, SQL, TOML, SCSS/LESS, TypeScript, XML, YAML)
